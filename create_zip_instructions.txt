@@ -1,0 +1,1 @@
+The zip file 'agrisathi_project.zip' contains the full project folder structure. Unzip and follow README.md to run.
