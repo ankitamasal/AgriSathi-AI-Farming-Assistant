@@ -1,0 +1,7 @@
+# Demo script (2-3 minutes)
+
+1. Show the web UI landing page and language toggle (English/Hindi).
+2. Ask: "When should I irrigate my wheat near Pune (district)?" — show retrieved sources, short checklist, confidence.
+3. Ask a market question: "Should I wait to sell my onions this week?" — show price trend and recommendation.
+4. Show WhatsApp/SMS flow: user sends "Irrigation wheat Pune" and receives a concise answer.
+5. Show admin dashboard with recent queries and dataset refresh.
