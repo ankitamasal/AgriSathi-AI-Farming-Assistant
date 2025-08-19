@@ -1,0 +1,7 @@
+Pitch bullets for slides:
+- Problem: Farmers lack quick localised guidance; risky decisions cost crops/money.
+- Solution: AgriSathi — retrieval-augmented agent giving cited, concise, local advice.
+- What's special: Multi-domain synthesis (weather+soil+market), offline SMS fallback, explicit confidence & citations.
+- Tech: Embeddings + FAISS, LLM for reasoning, modular ETL.
+- Demo: Live Q&A + WhatsApp flow.
+- Impact: Better decisions, less risk, more income stability for smallholder farmers.
